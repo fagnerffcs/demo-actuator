@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.cin.ufpe.in1062.ActuatorDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.54 s - in br.cin.ufpe.in1062.ActuatorDemoApplicationTests
